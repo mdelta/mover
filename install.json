@@ -1,0 +1,38 @@
+{
+    "training": {
+        "sam": {
+            "EXCD0900.xml": "display/qdspexc/EXCD0900.xml",
+            "EXCP0900.hpp": "src/exercise/EXCP0900.hpp",
+            "EXCP0900.cpp": "src/exercise/EXCP0900.cpp"
+        },
+        "tabledefinition": {
+            "PTABLE.json": "metainformation/da_model/PTABLE.json"
+        }
+    },
+    "exercise": {
+        "addresses": {
+            "images": {
+                "addresses_document.png": "web/IMAGES/training_DEF/addresses_document.png",
+                "addresses_edit.png": "web/IMAGES/training_DEF/addresses_edit.png",
+                "addresses_money_bag_euro.png": "web/IMAGES/training_DEF/addresses_money_bag_euro.png",
+                "addresses_truck.png": "web/IMAGES/training_DEF/addresses_truck.png",
+                "addresses_views.png": "web/IMAGES/training_DEF/addresses_views.png"
+            },
+            "ADDRESSES.json": "metainformation/da_model/ADDRESSES.json",
+            "EXCD0010.xml": "display/qdspexc/EXCD0010.xml",
+            "EXCP0010.cpp": "src/exercise/EXCP0010.cpp",
+            "EXCP0010.hpp": "src/exercise/EXCP0010.hpp",
+            "EXCD0011.xml": "display/EXCD0011.xml",
+            "EXCP0011.cpp": "src/exercise/EXCP0011.cpp",
+            "EXCP0011.hpp": "src/exercise/EXCP0011.hpp",
+            "EXCD0012.xml": "display/qdspexc/EXCD0012.xml",
+            "EXCP0012.cpp": "src/exercise/EXCP0012.cpp",
+            "EXCP0012.hpp": "src/exercise/EXCP0012.hpp"
+        },
+        "sam": {
+            "EXCD1000.xml": "display/qdsp_exercises/EXCD1000.xml",
+            "EXCP1000.cpp": "src/exercise/EXCP1000.cpp",
+            "EXCP1000.hpp": "src/exercise/EXCP1000.hpp"
+        }
+    }
+}
